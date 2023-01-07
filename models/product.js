@@ -104,3 +104,5 @@ module.exports = mongoose.model('Product', productSchema);
 //       });
 //   }
 // }
+
+// module.exports = Product;
